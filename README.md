@@ -1,1 +1,1 @@
-To start project open index.html file.
+To start project download and open index.html file.
